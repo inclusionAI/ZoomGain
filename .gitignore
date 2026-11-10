@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+outputs/
+*.log
+*.parquet
+*.safetensors
+*.pt
+.env
+
+# Local credentials and runtime artifacts
+.secrets/
+.env.*
+!.env.example
+api_keys.txt
+*_api_keys.txt
+*_api_key.txt
+*.pem
+*.key
+logs/
+eval_logs/
+.venv*/

@@ -1,0 +1,2 @@
+The bundled EasyR1-Qwen35/verl framework retains its upstream Apache-2.0 license and notices.
+ZoomGain scoring is extracted without changing parsing/scoring semantics; RL OCR uses case-insensitive ANLS.

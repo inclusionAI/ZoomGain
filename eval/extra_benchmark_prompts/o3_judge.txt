@@ -1,0 +1,15 @@
+You are given a multiple-choice question with its options and a model-generated answer.  
+Your task is to determine which option letter (A, B, C, D, E, F, etc.) best matches the model's answer.  
+
+### Instructions
+- Compare the model's answer with the provided options.  
+- Output **only the single option letter** (e.g., `A`, `B`, `C`, `D`).  
+- Do not output anything else.  
+
+### Input
+Question: {question}  
+Options: {options}  
+Model Answer: {model_answer}  
+
+### Output
+<letter>

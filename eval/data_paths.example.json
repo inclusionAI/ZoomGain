@@ -1,0 +1,17 @@
+{
+  "zoombench_annotation": "data/zoombench/annotation_zoombench.json",
+  "zoombench_image_root": "data/zoombench",
+  "vstar_annotation": "data/vstar/test_questions.jsonl",
+  "vstar_image_root": "data/vstar/images",
+  "hrbench_root": "data/hrbench",
+  "mmerealworld_annotation": "data/MME-RW/data/MME-RealWorld-Lite.json",
+  "mmerealworld_image_root": "data/MME-RW/data/imgs",
+  "treebench_annotation": "data/treebench/TreeBench.tsv",
+  "cvbench_root": "data/cvbench",
+  "mmstar_root": "data/mmstar",
+  "mmvp_root": "data/mmvp",
+  "visualprobe_root": "data/visualprobe",
+  "babyvision_root": "data/BabyVision/babyvision_data",
+  "perceptionbench_file": "data/PerceptionBench/PerceptionBench.jsonl",
+  "o3bench_root": "data/O3-Bench/test"
+}
