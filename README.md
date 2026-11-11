@@ -155,7 +155,7 @@ bash scripts/train_zoomgain_4b.sh
 
 For 9B, download `Qwen/Qwen3.5-9B` to a local directory, update `BASE_MODEL` and `OUTPUT_DIR`, and run `scripts/train_zoomgain_9b.sh`. The full launchers default to one epoch, a batch size of 64, and eight rollouts per question. The output directory contains training logs, rollouts, and checkpoints. To evaluate a saved model, set `MODEL_PATH` to `<output-dir>/checkpoints/global_step_<N>/actor/huggingface`.
 
-```
+
 
 ## 📄 License
 
