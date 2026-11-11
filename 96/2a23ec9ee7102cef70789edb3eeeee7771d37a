@@ -1,0 +1,28 @@
+README.md
+  s_f3ccea33754d96::t_19eb010152e2f4 52
+  s_f3ccea33754d96::t_3903a68d1cdbab 77
+  s_f3ccea33754d96::t_a027f8fcbc0873 106
+  s_f3ccea33754d96::t_facf04dff94242 1,3,5-11,13-15,19,24-37,40-42,44-45,48,51,55-56,59-76,78-79,81,83-105,107-150,152-175
+  s_f3ccea33754d96::t_0377ddfa80967d 21-23
+  s_f3ccea33754d96::t_bbacbb170b318b 20
+  s_f3ccea33754d96::t_4cffdc674857ab 43
+  s_f3ccea33754d96::t_00aed194c1108f 80
+  s_f3ccea33754d96::t_bdd88c4a155a94 82
+  s_f3ccea33754d96::t_683c7af0833c16 151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "962a23ec9ee7102cef70789edb3eeeee7771d37a",
+  "prompts": {},
+  "sessions": {
+    "s_f3ccea33754d96": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c865-e843-7bd0-8954-b9f5b4e7964f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "SZhanZ <929294487@qq.com>"
+    }
+  }
+}
