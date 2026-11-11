@@ -1,0 +1,14 @@
+README.md
+  h_b4d344fc21e902 169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "925ad1295c3ac0e25463339dcf89e20ff5125f64",
+  "prompts": {},
+  "humans": {
+    "h_b4d344fc21e902": {
+      "author": "SZhanZ <929294487@qq.com>"
+    }
+  }
+}
