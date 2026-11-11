@@ -169,7 +169,6 @@ If you find this repository helpful to your research, welcome to cite our paper:
   author  = {Shen, Haozhan and He, Liangbo and Lan, Jun and Zhu, Huijia and
              Wang, Weiqiang and Zhao, Tiancheng and Yin, Jianwei},
   journal = {arXiv preprint arXiv:2611.14076},
-  year    = {2026},
-  url     = {https://arxiv.org/abs/2611.14076}
+  year    = {2026}
 }
 ```
